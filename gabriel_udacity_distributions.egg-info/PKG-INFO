@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: gabriel-udacity-distributions
+Version: 0.92
+Summary: Gaussian and Binomial distributions
+Home-page: UNKNOWN
+Author: Gabriel Francis
+Author-email: gncis8@gmail.com
+License: UNKNOWN
+Description: # Overview
+        
+        This is a simple python package that offers basic Gaussian and Binomial Distributions functionality. It was made as a part of the AWS Machine Learning Foundation course on Udacity.
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
